@@ -59,3 +59,48 @@
     font-weight: 600;
     color: white;
 }
+
+/* failure section styles */
+#failures{
+    margin: 100px 0;
+}
+
+
+.failure-container{
+    /* margin-top: 100px; */
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    gap: 80px;
+    align-items: center;
+}
+
+.failures-img{
+    max-width: 550px;
+    
+}
+
+.failures-content{
+        max-width: 416px;
+        max-height: 400px;
+}
+
+.failures-content h2{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+.failures-content p{
+    font-size: 16px;
+    line-height: 26px;
+}   
+.p1{
+    margin-bottom: 16px;
+}
+.p2{
+    margin-bottom: 8px;
+}
+
+.fa-solid{
+    color: #16D887;
+}

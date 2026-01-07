@@ -104,3 +104,37 @@
 .fa-solid{
     color: #16D887;
 }
+
+
+/* plans section styles */
+
+.plans-container{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.plans-container h2{
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.plan-card-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+/* .plan-card img{
+    margin-bottom: 20px;
+} */
+
+.plan-card h4{
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.plan-card p{
+    font-size: 25px;
+    font-weight: 500;
+}
